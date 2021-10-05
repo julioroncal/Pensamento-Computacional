@@ -1,0 +1,19 @@
+{
+  "name": "ctd",
+  "version": "1.0.0",
+  "description": "Digital House - CTD\r PROGRAMAÇÃO IMPERATIVA\r Repositório TURMA 04 NT 2021 - JULIO JOEL RONCAL AGUILAR\r Devem ser copiados os arquivos anexos e ser executados no VSCODE.",
+  "main": "index.js",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "moment": "^2.29.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
